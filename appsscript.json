@@ -1,11 +1,6 @@
 {
   "timeZone": "Asia/Tokyo",
   "dependencies": {
-    "enabledAdvancedServices": [{
-      "userSymbol": "Classroom",
-      "serviceId": "classroom",
-      "version": "v1"
-    }]
   },
   "webapp": {
     "access": "ANYONE",
