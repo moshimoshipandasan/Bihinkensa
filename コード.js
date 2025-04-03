@@ -1,8 +1,11 @@
-// **************************************************
-// 内容:備品検査
-// 作成日:2021/06/18
-// 作成者:noboru ando
-// **************************************************
+/**
+ * @fileoverview 備品検査用 Google Apps Script
+ * スプレッドシートのメニューから備品ラベル（QRコード）を生成します。
+ * @version 1.1
+ * @date 2024-04-03 (Last update based on recent changes)
+ * @author noboru ando
+ * @license MIT
+ */
 function onOpen() {
   SpreadsheetApp
     .getActiveSpreadsheet()
